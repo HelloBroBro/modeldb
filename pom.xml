@@ -41,7 +41,7 @@
         <mockito.version>5.10.0</mockito.version>
         <lombok.version>1.18.30</lombok.version>
 
-        <junit-jupiter.version>5.10.1</junit-jupiter.version>
+        <junit-jupiter.version>5.10.2</junit-jupiter.version>
         <jacoco.version>0.8.11</jacoco.version>
     </properties>
 
@@ -331,7 +331,7 @@
             <dependency>
                 <groupId>com.microsoft.sqlserver</groupId>
                 <artifactId>mssql-jdbc</artifactId>
-                <version>12.5.0.jre11-preview</version>
+                <version>12.6.0.jre11</version>
             </dependency>
             <!-- Snyk abatements -->
             <dependency>
