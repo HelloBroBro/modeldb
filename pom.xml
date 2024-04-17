@@ -26,7 +26,7 @@
         <revision>1.0-SNAPSHOT</revision>
         <hibernate.version>5.6.15.Final</hibernate.version>
         <log4j.version>2.23.1</log4j.version>
-        <grpc.version>1.62.2</grpc.version>
+        <grpc.version>1.63.0</grpc.version>
         <prometheus.version>0.16.0</prometheus.version>
         <protobuf.version>3.25.2</protobuf.version>
         <aws.version>1.12.656</aws.version>
@@ -461,7 +461,7 @@
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-jar-plugin</artifactId>
-                    <version>3.3.0</version>
+                    <version>3.4.0</version>
                 </plugin>
                 <plugin>
                     <!-- Use for generating code coverage report using jacoco plugin -->
